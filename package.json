@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "backend": "node crm-backend/index.js",
+    "serve": "serve"
+  },
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
